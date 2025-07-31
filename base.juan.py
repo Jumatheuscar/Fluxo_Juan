@@ -7,7 +7,7 @@ from datetime import datetime, date
 
 # Define aqui o nome do arquivo .xlsx que está na pasta
 ARQUIVO_DADOS = r"C:\Users\juanc\OneDrive\Juan\Financeiro\teste py\extrato.xlsx"  # Troque pelo nome do seu arquivo (.xlsx) se for diferente
-
+#abc
 # --- Leitura do Excel, tratamento automático ---
 try:
     df = pd.read_excel(ARQUIVO_DADOS)
